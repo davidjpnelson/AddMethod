@@ -18,7 +18,7 @@ class AddMethod{
     minivan.mpg = 21;
 
     // state the passenger amount and compute the range of a minivan assuming a full tank of gas
-    System.out.println("A coupe carries " + coupe.passengers + " passengers.)");
+    System.out.println("A coupe carries " + coupe.passengers + " passengers.");
     coupe.range();
 
     // state the passenger amount and compute the range of a minivan assuming a full tank of gas
